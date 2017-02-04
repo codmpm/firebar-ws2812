@@ -1,4 +1,4 @@
-Firebar WS2812 Controller
+Firebar WS2812
 =
 A quick Arduino hack for a buffy to get a WS2812 RGB fire animation for room ilumination. 
 The animation is controlled with only two buttons. One for the speed of the flames and the other for the brightness. Nothing fancy.
