@@ -1,5 +1,8 @@
 Firebar WS2812
 =
+
+    This project is abonded, use the excellent [WS2812FX](https://github.com/kitesurfer1404/WS2812FX)!
+
 A quick Arduino hack for a buddy to get a WS2812 RGB fire animation for room illumination. 
 The animation is controlled with only two buttons. One for the speed of the flames and the other for the brightness. Nothing fancy.
 
